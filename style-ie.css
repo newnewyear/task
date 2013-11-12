@@ -1,10 +1,5 @@
 .mass_wrapper {
 	border-radius: 10px;
 	box-shadow: #666 0px 0px 10px;
-	background: -ms-linear-gradient(#white, #white);
-	background: -o-linear-gradient(#white, #white);
-	background: linear-gradient(#white, #white);
-	-pie-background: linear-gradient(#white, #white);
 	behavior: url(/pie/PIE.php);
-    background-color: #eeeeee;
 }

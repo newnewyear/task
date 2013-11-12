@@ -23,7 +23,6 @@ body {
 .left_container {
     float: left;
     padding: 12px 0 0 22px;
-    background-color: #eeeeee;
     margin: 0 auto;
     border-radius: 5px 0 0 0;
 }
