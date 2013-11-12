@@ -9,7 +9,7 @@ body {
 }
 .mass_wrapper {
     box-shadow: 0 0 15px #d4d4d8;
-    border-radius: 5px;
+    border-radius: 10px;
     font: 12px Arial, sans-serif;
     position: relative;
     margin: 0 auto;
@@ -24,7 +24,6 @@ body {
     float: left;
     padding: 12px 0 0 22px;
     margin: 0 auto;
-    border-radius: 5px 0 0 0;
 }
 .left_container ul {
     list-style: none;
@@ -46,7 +45,7 @@ body {
     width: 793px;
     float: right;
     background-color: #fbfbfb;
-    border-radius: 0 5px 5px 0;
+    border-radius: 0 10px 10px 0;
 }
 .ps_li {
     display: inline-block;

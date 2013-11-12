@@ -1,5 +1,5 @@
 .mass_wrapper {
 	border-radius: 10px;
 	box-shadow: #666 0px 0px 10px;
-	behavior: url(/pie/PIE.php);
+	behavior: url("PIE-1.0.0/PIE.htc");
 }
